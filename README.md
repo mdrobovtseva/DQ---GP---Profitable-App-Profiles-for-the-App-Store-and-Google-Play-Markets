@@ -1,4 +1,4 @@
-# DQ---GP---Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets
+# Profitable App Profiles for the App Store and Google Play Markets (Data Quest - Guided Project)
 In this project, I analyzed data from Google Play Store and App Store. The goal was to define most profitable free apps for English-language target audience of both stores. 
 
 The project documentation consists of the following files:
