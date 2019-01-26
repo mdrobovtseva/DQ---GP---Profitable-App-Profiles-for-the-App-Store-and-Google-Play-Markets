@@ -3,7 +3,7 @@ In this project, I analyzed data from Google Play Store and App Store. The goal 
 
 The project documentation consists of the following files:
   1. Google Play Store data - <a href = 'https://github.com/mdrobovtseva/DQ---GP---Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets/blob/master/googleplaystore.csv'>googleplaystore.csv </a>
-  2. App Store data - AppleStore.csv
+  2. App Store data - <a href = 'https://github.com/mdrobovtseva/DQ---GP---Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets/blob/master/AppleStore.csv'>AppleStore.csv</a>
   3. Python code for the project - ProfitableAppProfiles
   
 While analyzing data, I found several results I would like to share:
