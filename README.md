@@ -4,7 +4,7 @@ In this project, I analyzed data from Google Play Store and App Store. The goal 
 The project documentation consists of the following files:
   1. Google Play Store data - <a href = 'https://github.com/mdrobovtseva/DQ---GP---Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets/blob/master/googleplaystore.csv'>googleplaystore.csv </a>
   2. App Store data - <a href = 'https://github.com/mdrobovtseva/DQ---GP---Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets/blob/master/AppleStore.csv'>AppleStore.csv</a>
-  3. Python code for the project - ProfitableAppProfiles
+  3. Python code for the project - <a href='https://github.com/mdrobovtseva/Profitable-Mobile-App-Profiles/blob/master/ProfitableAppProfiles.ipynb'>ProfitableAppProfiles</a>
   
 While analyzing data, I found several results that could be useful for app developers:
 1. While App Store has more fun apps (with Games being the biggest in terms of the amount of apps genre), Google Play Store contains more practically oriented apps.
